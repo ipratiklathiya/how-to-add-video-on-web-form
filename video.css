@@ -1,0 +1,44 @@
+/*
+    Name : Pratikbhai Lathiya
+    Student ID : 0791684
+    Created Date :22/07/2022 
+*/
+
+@font-face {
+    font-family: 'Cantarell', sans-serif;
+    src: url(Cantarell-Italic.ttf)
+    format('truetype');
+ }
+
+
+header h1{
+    font-family: 'Cantarell', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    padding: 15px;
+}
+
+body{
+    background-color: yellow;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+ul{
+    text-align: center;
+}
+ ul li{
+    margin: 20px 0; 
+    font-size: 2em;
+    font-family: 'Cantarell', sans-serif;;
+}
+
+
+section video {
+    width: 70%;
+    margin: 20px 15%;
+    padding: 20px;
+    border: 3px solid black;
+}
+
